@@ -7,6 +7,7 @@ Pure stdlib; writes only to MAKEFUN_OUTPUT_DIR.
 """
 import os
 
+# Writes one 77-char line to /output/entry.txt.
 LINE = "I did not miss the spot. My map now lists it as a pet, and I do not eat pets."
 
 
